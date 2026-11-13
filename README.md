@@ -1,7 +1,7 @@
 # Shivam Giri
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:303030&height=180&section=header&text=SHIVAM%20GIRI&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Developer%20%7C%20Designer%20%7C%20Builder&descSize=15&descAlignY=68&animation=fadeIn" width="100%" />
+  <img src="assets/apple-glass-banner.svg" width="100%" alt="Shivam Giri — Developer, Designer, Builder" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ A development project focused on stock-trading experiences.
 
 [View Repository →](https://github.com/mrshivamgiri/shopez-stock-trader)
 
-**More projects**
+**More Projects**
 
 Explore my repositories for experiments, applications and things I'm building.
 

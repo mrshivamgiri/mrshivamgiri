@@ -1,13 +1,12 @@
 # Shivam Giri
 
-<p align="center">
-  <img src="assets/apple-glass-banner.svg" width="100%" />
-</p>
 
 <p align="center">
-  <strong>Building thoughtful digital experiences.</strong>
-  <br/>
-  Exploring the intersection of engineering, design and technology.
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:090B16,50:202B45,100:090B16&height=230&section=header&text=SHIVAM%20GIRI&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=DEVELOPER%20%7C%20DESIGNER%20%7C%20BUILDER&descSize=16&descAlignY=62&animation=fadeIn"
+    width="100%"
+    alt="Shivam Giri"
+  />
 </p>
 
 <p align="center">

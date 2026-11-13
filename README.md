@@ -1,7 +1,7 @@
 # Shivam Giri
 
 <p align="center">
-  <img src="assets/apple-glass-banner.svg" width="100%" alt="Shivam Giri — Developer, Designer, Builder" />
+  <img src="assets/apple-glass-banner.svg" width="100%" />
 </p>
 
 <p align="center">
